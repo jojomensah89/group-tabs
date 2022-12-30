@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Group Tabs",
+  "description": "Sorts all tabs and groups them under common url title  ",
+  "version": "1.0",
+  "icons": {
+    "16": "images/icon16.png",
+
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": ["<all_urls>"],
+  "permissions": ["tabGroups", "tabs"]
+}

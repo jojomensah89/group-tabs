@@ -1,0 +1,11 @@
+{
+  "name": "group-tabs",
+  "version": "1.0.0",
+  "description": "- Download project folder\r - Open a Chrome window\r - Go to `customise and control Google Chrome -> More Tools -> Extensions`\r - Activate `developer mode`at top right corner toggle\r - Click `Load unpacked` and select the folder where this project in stored in yourn computer",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
